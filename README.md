@@ -10,45 +10,23 @@
         <br>
         Best privacy by default, unbiased ad-blocking, no bloat and no noise.
     </p>
-    <a href="https://helium.computer/">
-        helium.computer
-    </a>
+    
     <br/>
 </div>
 
 ## Downloads
 > [!NOTE]
-> Helium is still in beta, so unexpected issues may occur. We are not responsible
-for any damage caused by usage of beta software.
+> Xenon is in prototype stage, so unexpected issues may occur. We are not responsible
+for any damage caused by usage of this software.
 
-Best way to download Helium is to open [helium.computer](https://helium.computer/) on your computer.
-It'll pick the right build for your OS and architecture automatically.
 
-If you wish to download builds "straight from the tap" with all options in one place,
-you can do it on GitHub in the Releases section in each platform's repo:
-- [macOS](https://github.com/imputnet/helium-macos/releases/latest)
-- [Linux](https://github.com/imputnet/helium-linux/releases/latest) (AppImage)
-- [Windows](https://github.com/imputnet/helium-windows/releases/latest) (no auto-updates yet)
 
-## Platform packaging
-Helium is available on all major desktop platforms, with entirety of source code
-for all of them published here:
-- [Helium for macOS](https://github.com/imputnet/helium-macos)
-- [Helium for Linux](https://github.com/imputnet/helium-linux)
-- [Helium for Windows](https://github.com/imputnet/helium-windows)
-
-## Other Helium repos
-Along with the main repo and platform packaging, these projects are also a part of Helium:
-- [Helium services](https://github.com/imputnet/helium-services)
-- [Helium onboarding](https://github.com/imputnet/helium-onboarding) (the onboarding page seen in Helium at `helium://setup`)
-- [uBlock Origin packaging](https://github.com/imputnet/ublock-origin-crx)
 
 ## Credits
 ### ungoogled-chromium
-Helium is proudly based on [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium).
-It wouldn't be possible for us to get rid of Google's bloat and get a development+building pipeline this fast without it.
-Huge shout-out to everyone behind this amazing project!
-(and we intend to contribute even more stuff upstream in the future)
+Xenon is proudly based on [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium), and Helium.
+Huge shout-out to everyone behind these amazing projects!
+
 
 ### The Chromium project
 [The Chromium Project](https://www.chromium.org/) is obviously at the core of Helium,
