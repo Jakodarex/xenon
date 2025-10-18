@@ -3,12 +3,12 @@
     <p>
         <img src="resources/branding/app_icon/raw.png"
             title="Xenon" alt="Xenon logo" width="120" />
-        <h1>Helium</h1>
+        <h1>Xenon</h1>
     </p>
     <p width="120">
-        The Chromium-based web browser made for people, with love.
+        The Chromium-based web browser crafted for privacy enthusiasts, with care and precision.
         <br>
-        Best privacy by default, unbiased ad-blocking, no bloat and no noise.
+         Enjoy top-tier privacy by default, powerful ad-blocking, and a streamlined experience free from bloat and distractions.
     </p>
     
     <br/>
