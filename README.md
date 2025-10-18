@@ -2,7 +2,7 @@
     <br/>
     <p>
         <img src="resources/branding/app_icon/raw.png"
-            title="Helium" alt="Helium logo" width="120" />
+            title="Xenon" alt="Xenon logo" width="120" />
         <h1>Helium</h1>
     </p>
     <p width="120">
