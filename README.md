@@ -11,7 +11,7 @@
          Enjoy top-tier privacy by default, powerful ad-blocking, and a streamlined experience free from bloat and distractions.
     </p>
     
-    <br/>
+  
 </div>
 
 ## Downloads
